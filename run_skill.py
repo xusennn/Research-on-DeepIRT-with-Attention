@@ -5,7 +5,7 @@ from sklearn import metrics
 from utils import getLogger
 from utils import ProgressBar
 import itertools
-# Code reused from https://github.com/ckyeungac/DeepIRT.git
+
 
 def compute_auc(all_label, all_pred):
     #fpr, tpr, thresholds = metrics.roc_curve(all_label, all_pred, pos_label=1.0)
