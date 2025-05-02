@@ -1,8 +1,6 @@
 import numpy as np
 from utils import getLogger
-# Code reused from https://github.com/ckyeungac/DeepIRT.git
 
-# reuse the code from DeepIRT
 
 class DataLoader():
     def __init__(self, n_questions, n_skills, seq_len, separate_char):
