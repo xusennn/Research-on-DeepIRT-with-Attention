@@ -1,4 +1,3 @@
-# Code reused from https://github.com/ckyeungac/DeepIRT.git
 import datetime
 import os
 
