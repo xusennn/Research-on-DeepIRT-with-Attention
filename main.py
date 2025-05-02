@@ -12,7 +12,6 @@ from run import run_model
 from run_skill import run_model_skill
 from utils import getLogger
 from configs import ModelConfigFactory
-# Code reused from https://github.com/ckyeungac/DeepIRT.git
 # set logger
 logger = getLogger('Deep-IRT-model-HN')
 
