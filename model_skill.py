@@ -5,7 +5,7 @@ import tf_slim as slim
 from tf_slim import layers
 from memory_skill import DKVMN
 from utils import getLogger
-# Code reused from https://github.com/ckyeungac/DeepIRT.git
+
 
 # set logger
 logger = getLogger('Deep-IRT-model-HN')
