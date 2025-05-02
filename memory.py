@@ -6,7 +6,7 @@ import tensorflow.compat.v1 as tf
 from tf_slim import layers
 from utils import getLogger
 from tensorflow.python.util import nest as nestv2
-# Code reused from https://github.com/ckyeungac/DeepIRT.git
+
 
 # set logger
 logger = getLogger('Deep-IRT-model-HN')
