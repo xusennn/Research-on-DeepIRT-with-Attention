@@ -2,7 +2,7 @@ import datetime
 import logging
 import os
 from progress.bar import Bar
-# Code reused from https://github.com/ckyeungac/DeepIRT.git
+
 
 class ProgressBar(Bar):
     message = 'Loading'
