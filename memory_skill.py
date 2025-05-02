@@ -8,7 +8,7 @@ from tf_slim import layers
 from utils import getLogger
 # from tensorflow.contrib import framework as contrib_framework
 from tensorflow.python.util import nest as nestv2
-# Code reused from https://github.com/ckyeungac/DeepIRT.git
+
 
 # set logger
 logger = getLogger('Deep-IRT-model-HN')
